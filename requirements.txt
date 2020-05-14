@@ -1,5 +1,5 @@
+jupyter
 numpy
 matplotlib
 pandas
-sklearn
-statsmodels
+scikit-learn
